@@ -1,4 +1,4 @@
-# Illumi-Grabber (educational purposes only
+# Illumi-Grabber (educational purposes only)
 This is a program i wrote that steals someone's chrome passwords and sends them to you via webhook
 
 # how to use
