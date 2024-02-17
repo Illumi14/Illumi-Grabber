@@ -22,3 +22,4 @@ video tutorial: https://www.youtube.com/watch?v=UGr76QpJ_gs
 
 if you do end up using my code for any of your own projects please PLEASE link this github or credit me in it as i spent a lot of time on this
 
+# THIS GRABBER IS AN OUTDATED VERSION AND WILL STILL WORK BUT I WILL ADD AN UPGRADED VERSION TO GITHUB WHEN I CAN
